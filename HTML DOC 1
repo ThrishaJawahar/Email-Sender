@@ -1,0 +1,16 @@
+Create a ‘Templates’ directory in Emailapp and create another directory ‘Emailapp’ in Templates.
+	Create two HTML files: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Template</title>
+</head>
+<body>
+    <p>Hello All,</p>
+    <p>We are working on Django projects today in FITA.Am setting up an email sender, looking forward to do more projects! </p>
+    <p>Best Regards,</p>
+    <p>Lavanya</p>
+</body>
+</html>
